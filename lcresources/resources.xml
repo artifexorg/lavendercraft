@@ -350,6 +350,20 @@
         <StorageClass>STANDARD</StorageClass>
     </Contents>
     <Contents>
+        <Key>newsound/lavender/</Key>
+        <LastModified>2010-09-23T12:07:24.000Z</LastModified>
+        <ETag>&quot;d41d8cd98f00b204e9800998ecf8427e&quot;</ETag>
+        <Size>0</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>newsound/lavender/respawn.ogg</Key>
+        <LastModified>2010-09-23T12:07:24.000Z</LastModified>
+        <ETag>&quot;d41d8cd98f00b204e9800998ecf8427e&quot;</ETag>
+        <Size>21357</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
         <Key>newsound/liquid/</Key>
         <LastModified>2010-09-23T12:07:24.000Z</LastModified>
         <ETag>&quot;d41d8cd98f00b204e9800998ecf8427e&quot;</ETag>

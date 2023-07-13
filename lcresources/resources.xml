@@ -91,6 +91,13 @@
         <StorageClass>STANDARD</StorageClass>
     </Contents>
     <Contents>
+        <Key>newmusic/magnetic.ogg</Key>
+        <LastModified>2023-7-13T14:46:39.000Z</LastModified>
+        <ETag>&quot;c56f9d01105e759126dcfe26ff2fa82d&quot;</ETag>
+        <Size>2519563</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
         <Key>newmusic/nuance1.ogg</Key>
         <LastModified>2010-10-30T19:52:41.000Z</LastModified>
         <ETag>&quot;c56f9d01105e759126dcfe26ff2fa82d&quot;</ETag>
